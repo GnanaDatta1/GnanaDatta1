@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi, I'm Marapaka Gnana Datta<br><br>Software Engineer | Problem Solver | Tech Enthusiast<br><br>I’m a passionate Software Engineer with experience in designing, developing, and maintaining scalable applications. I enjoy turning complex problems into simple, efficient, and user-friendly solutions.<br><br>About Me<br><br> Currently working on: Full-stack development projects<br><br> Learning: System Design & Cloud Technologies<br><br>Looking to collaborate on: Open-source projects<br><br>Ask me about: Java, Python, Web Development<br><br>Fun fact: I love debugging more than coding!<br><br>Tech Stack<br><br>Languages: Java, Python, JavaScript<br><br>Frontend: HTML, CSS, React<br><br>Backend: Node.js, Spring Boot<br><br>Database: MySQL, MongoDB<br><br>Tools: Git, Docker, VS Code<br><br>Connect With Me<br><br>LinkedIn: www.linkedin.com/in/marapaka-gnana-datta<br><br>Email: gnanadattam.gmail.com
 
 
